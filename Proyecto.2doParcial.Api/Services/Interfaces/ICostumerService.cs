@@ -5,22 +5,22 @@ namespace Proyecto._2doParcial.Services.Interfaces;
 public interface ICustomerService
 {
     
-    //metodo para guardar clientes.
+    //Método para guardar clientes.
     Task<CustomerDto> SaveAsync(CustomerDto customer);
     
-    //metodo para actualizar los clientes.
+    //Método para actualizar los clientes.
     Task<CustomerDto> UpdateAsync(CustomerDto customer);
     
-    //Metodo para retornar una lista de clientes.
+    //Método para retornar una lista de clientes.
     Task<List<CustomerDto>> GetAllAsync();
     
-    //Metodo para retornar el id de los clientes que borrara.
+    //Método para retornar el id de los clientes que borrara.
     Task<bool> CustomerExist (int id);
     
-    //Metodo para obtener un cliente por id.
+    //Método para obtener un cliente por id.
     Task<CustomerDto> GetById(int id);
     
-    //Metodo para borrar aparatos.
+    //Método para borrar aparatos.
     Task<bool> DeleteAsync(int id);
 
     
