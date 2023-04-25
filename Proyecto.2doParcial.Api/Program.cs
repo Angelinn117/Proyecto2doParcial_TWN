@@ -1,4 +1,5 @@
 using Dapper.Contrib.Extensions;
+using Proyecto._2doParcial.Core.Entities;
 using Proyecto._2doParcial.DataAccess;
 using Proyecto._2doParcial.DataAccess.Interfaces;
 using Proyecto._2doParcial.Repositories;
@@ -23,6 +24,9 @@ builder.Services.AddScoped<IApparatusService, ApparatusService>();
 
 builder.Services.AddScoped<ICustomerRepository, CustomerRepository>();
 builder.Services.AddScoped<ICustomerService, CustomerService>();
+
+builder.Services.AddScoped<ICustomerAddressRepository, CustomerAddressRepository>();
+builder.Services.AddScoped<ICustomerAddressService, CustomerAddressService>();
 
 builder.Services.AddScoped<IDbContext, DbContext>();
 

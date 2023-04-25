@@ -27,9 +27,6 @@ public class CustomerRepository : ICustomerRepository
         await _dbContext.Connection.UpdateAsync(customer);
         return customer;
     }
-    
-    //Nos quedamos aquí. Cambiamos el nombre de la base de datos para arreglar el error de que se buscaban
-    //las tablas incorrectas.
 
     public async Task<List<Customer>> GetAllAsync()
     {
