@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "hjcooa6xyl7GkzCKM7saMyj3Aiua1Ax7uvFlvnUDKT+YFFXQHIKCym99xK/cbmUpF0O8aOJhx/lKFiTZOUzzyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\angel\\RiderProjects\\Proyecto.2doParcial\\Proyecto.2doParcial.Api\\Proyecto.2doParcial.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\angel\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\angel\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512",
+    "C:\\Users\\angel\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\angel\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\angel\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\angel\\.nuget\\packages\\mysqlconnector\\2.3.0-beta.2\\mysqlconnector.2.3.0-beta.2.nupkg.sha512",
+    "C:\\Users\\angel\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\angel\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\angel\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\angel\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
