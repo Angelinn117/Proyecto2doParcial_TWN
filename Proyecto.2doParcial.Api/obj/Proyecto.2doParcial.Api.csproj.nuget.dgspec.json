@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\angel\\RiderProjects\\Proyecto.2doParcial\\Proyecto.2doParcial.Api\\Proyecto.2doParcial.Api.csproj": {}
+    "C:\\Users\\Angel\\RiderProjects\\Proyecto2doParcial_Web\\Proyecto.2doParcial.Api\\Proyecto.2doParcial.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\angel\\RiderProjects\\Proyecto.2doParcial\\Proyecto.2doParcial.Api\\Proyecto.2doParcial.Api.csproj": {
+    "C:\\Users\\Angel\\RiderProjects\\Proyecto2doParcial_Web\\Proyecto.2doParcial.Api\\Proyecto.2doParcial.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\angel\\RiderProjects\\Proyecto.2doParcial\\Proyecto.2doParcial.Api\\Proyecto.2doParcial.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Angel\\RiderProjects\\Proyecto2doParcial_Web\\Proyecto.2doParcial.Api\\Proyecto.2doParcial.Api.csproj",
         "projectName": "Proyecto.2doParcial.Api",
-        "projectPath": "C:\\Users\\angel\\RiderProjects\\Proyecto.2doParcial\\Proyecto.2doParcial.Api\\Proyecto.2doParcial.Api.csproj",
-        "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\angel\\RiderProjects\\Proyecto.2doParcial\\Proyecto.2doParcial.Api\\obj\\",
+        "projectPath": "C:\\Users\\Angel\\RiderProjects\\Proyecto2doParcial_Web\\Proyecto.2doParcial.Api\\Proyecto.2doParcial.Api.csproj",
+        "packagesPath": "C:\\Users\\Angel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Angel\\RiderProjects\\Proyecto2doParcial_Web\\Proyecto.2doParcial.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\angel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Angel\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\angel\\RiderProjects\\Proyecto.2doParcial\\Proyecto.2doParcial.Core\\Proyecto.2doParcial.Core.csproj": {
-                "projectPath": "C:\\Users\\angel\\RiderProjects\\Proyecto.2doParcial\\Proyecto.2doParcial.Core\\Proyecto.2doParcial.Core.csproj"
+              "C:\\Users\\Angel\\RiderProjects\\Proyecto2doParcial_Web\\Proyecto.2doParcial.Core\\Proyecto.2doParcial.Core.csproj": {
+                "projectPath": "C:\\Users\\Angel\\RiderProjects\\Proyecto2doParcial_Web\\Proyecto.2doParcial.Core\\Proyecto.2doParcial.Core.csproj"
               }
             }
           }
@@ -70,6 +70,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.12, 6.0.12]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.12, 6.0.12]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.12, 6.0.12]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.12, 6.0.12]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -78,21 +96,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\angel\\RiderProjects\\Proyecto.2doParcial\\Proyecto.2doParcial.Core\\Proyecto.2doParcial.Core.csproj": {
+    "C:\\Users\\Angel\\RiderProjects\\Proyecto2doParcial_Web\\Proyecto.2doParcial.Core\\Proyecto.2doParcial.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\angel\\RiderProjects\\Proyecto.2doParcial\\Proyecto.2doParcial.Core\\Proyecto.2doParcial.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Angel\\RiderProjects\\Proyecto2doParcial_Web\\Proyecto.2doParcial.Core\\Proyecto.2doParcial.Core.csproj",
         "projectName": "Proyecto.2doParcial.Core",
-        "projectPath": "C:\\Users\\angel\\RiderProjects\\Proyecto.2doParcial\\Proyecto.2doParcial.Core\\Proyecto.2doParcial.Core.csproj",
-        "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\angel\\RiderProjects\\Proyecto.2doParcial\\Proyecto.2doParcial.Core\\obj\\",
+        "projectPath": "C:\\Users\\Angel\\RiderProjects\\Proyecto2doParcial_Web\\Proyecto.2doParcial.Core\\Proyecto.2doParcial.Core.csproj",
+        "packagesPath": "C:\\Users\\Angel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Angel\\RiderProjects\\Proyecto2doParcial_Web\\Proyecto.2doParcial.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\angel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Angel\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -126,12 +144,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.12, 6.0.12]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.12, 6.0.12]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.12, 6.0.12]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

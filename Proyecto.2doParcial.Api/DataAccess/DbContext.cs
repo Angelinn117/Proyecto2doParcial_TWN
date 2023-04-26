@@ -6,7 +6,7 @@ namespace Proyecto._2doParcial.DataAccess;
 
 public class DbContext : IDbContext
 {
-    private readonly string _connectionString = "server=localhost;user=root;database=project2ndpartial_db;password=ChilaquilesRojos";
+    private readonly string _connectionString = "server=localhost;user=root;database=project2ndpartial_db;password=Chilaquiles117";
 
     private MySqlConnection _connection;
 

@@ -34,6 +34,9 @@ builder.Services.AddScoped<IWarrantyService, WarrantyService>();
 builder.Services.AddScoped<IReparationRepository, ReparationRepository>();
 builder.Services.AddScoped<IReparationService, ReparationService>();
 
+builder.Services.AddScoped<IUserRepository, UserRepository>();
+builder.Services.AddScoped<IUserService, UserService>();
+
 builder.Services.AddScoped<IDbContext, DbContext>();
 
 SqlMapperExtensions.TableNameMapper = entityType =>
