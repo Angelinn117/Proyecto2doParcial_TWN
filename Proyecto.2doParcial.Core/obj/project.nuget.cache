@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VFRA4y5szwAVwdEYDgoQXSHVo14BRJ6svVorvgMOK6Ng8zzBqnSlaDJbI3DoTmBy6emNrHK22BZuKH7xlzKo3A==",
+  "dgSpecHash": "jP20wuUjSid/Mr27kc0aAttgikjlDgZSt1vLC/I/QCTWSelbadTL+WfW7nBGpjJIZv76o/JtKD9fWOIPJt32Yg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Angel\\RiderProjects\\Proyecto2doParcial_Web\\Proyecto.2doParcial.Core\\Proyecto.2doParcial.Core.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Angel\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
-    "C:\\Users\\Angel\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
-    "C:\\Users\\Angel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\blake\\RiderProjects\\Proyecto2doParcial_Web\\Proyecto.2doParcial.Core\\Proyecto.2doParcial.Core.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

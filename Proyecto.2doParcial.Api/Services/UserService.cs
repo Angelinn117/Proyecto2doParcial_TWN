@@ -19,7 +19,7 @@ public class UserService : IUserService
         var user = new User
         {
             nombreUsuario = userDto.nombreUsuario,
-            contraseñaUsuario = userDto.contraseñaUsuario,
+            contrasenaUsuario = userDto.contrasenaUsuario,
             nombreCompleto = userDto.nombreCompleto,
 
             CreatedBy = "",
@@ -44,7 +44,7 @@ public class UserService : IUserService
 
 
         user.nombreUsuario = userDto.nombreUsuario;
-        user.contraseñaUsuario = userDto.contraseñaUsuario;
+        user.contrasenaUsuario = userDto.contrasenaUsuario;
         user.nombreCompleto = userDto.nombreCompleto;
         
         user.UpdatedBy = "";

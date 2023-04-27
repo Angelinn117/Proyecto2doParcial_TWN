@@ -5,7 +5,7 @@ namespace Proyecto._2doParcial.Core.Dto;
 public class UserDto : DtoBase
 {
     public string nombreUsuario { get; set; }
-    public string contraseñaUsuario { get; set; }
+    public string contrasenaUsuario { get; set; }
     public string nombreCompleto { get; set; }
 
     public UserDto()
@@ -17,7 +17,7 @@ public class UserDto : DtoBase
     {
 
         nombreUsuario = user.nombreUsuario;
-        contraseñaUsuario = user.contraseñaUsuario;
+        contrasenaUsuario = user.contrasenaUsuario;
         nombreCompleto = user.nombreCompleto;
         Id = user.Id;
 

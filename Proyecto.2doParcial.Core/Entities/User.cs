@@ -3,6 +3,6 @@
 public class User : EntityBase
 {
     public string nombreUsuario { get; set; }
-    public string contraseñaUsuario { get; set; }
+    public string contrasenaUsuario { get; set; }
     public string nombreCompleto { get; set; }
 }

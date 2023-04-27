@@ -22,3 +22,15 @@ C:\Users\Angel\RiderProjects\Proyecto2doParcial_Web\Proyecto.2doParcial.Core\obj
 C:\Users\Angel\RiderProjects\Proyecto2doParcial_Web\Proyecto.2doParcial.Core\obj\Debug\net6.0\refint\Proyecto.2doParcial.Core.dll
 C:\Users\Angel\RiderProjects\Proyecto2doParcial_Web\Proyecto.2doParcial.Core\obj\Debug\net6.0\Proyecto.2doParcial.Core.pdb
 C:\Users\Angel\RiderProjects\Proyecto2doParcial_Web\Proyecto.2doParcial.Core\obj\Debug\net6.0\ref\Proyecto.2doParcial.Core.dll
+C:\Users\blake\RiderProjects\Proyecto2doParcial_Web\Proyecto.2doParcial.Core\bin\Debug\net6.0\Proyecto.2doParcial.Core.deps.json
+C:\Users\blake\RiderProjects\Proyecto2doParcial_Web\Proyecto.2doParcial.Core\bin\Debug\net6.0\Proyecto.2doParcial.Core.dll
+C:\Users\blake\RiderProjects\Proyecto2doParcial_Web\Proyecto.2doParcial.Core\bin\Debug\net6.0\Proyecto.2doParcial.Core.pdb
+C:\Users\blake\RiderProjects\Proyecto2doParcial_Web\Proyecto.2doParcial.Core\obj\Debug\net6.0\Proyecto.2doParcial.Core.csproj.AssemblyReference.cache
+C:\Users\blake\RiderProjects\Proyecto2doParcial_Web\Proyecto.2doParcial.Core\obj\Debug\net6.0\Proyecto.2doParcial.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blake\RiderProjects\Proyecto2doParcial_Web\Proyecto.2doParcial.Core\obj\Debug\net6.0\Proyecto.2doParcial.Core.AssemblyInfoInputs.cache
+C:\Users\blake\RiderProjects\Proyecto2doParcial_Web\Proyecto.2doParcial.Core\obj\Debug\net6.0\Proyecto.2doParcial.Core.AssemblyInfo.cs
+C:\Users\blake\RiderProjects\Proyecto2doParcial_Web\Proyecto.2doParcial.Core\obj\Debug\net6.0\Proyecto.2doParcial.Core.csproj.CoreCompileInputs.cache
+C:\Users\blake\RiderProjects\Proyecto2doParcial_Web\Proyecto.2doParcial.Core\obj\Debug\net6.0\Proyecto.2doParcial.Core.dll
+C:\Users\blake\RiderProjects\Proyecto2doParcial_Web\Proyecto.2doParcial.Core\obj\Debug\net6.0\refint\Proyecto.2doParcial.Core.dll
+C:\Users\blake\RiderProjects\Proyecto2doParcial_Web\Proyecto.2doParcial.Core\obj\Debug\net6.0\Proyecto.2doParcial.Core.pdb
+C:\Users\blake\RiderProjects\Proyecto2doParcial_Web\Proyecto.2doParcial.Core\obj\Debug\net6.0\ref\Proyecto.2doParcial.Core.dll
