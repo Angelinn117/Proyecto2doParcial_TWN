@@ -5,7 +5,7 @@ namespace Proyecto._2doParcial.Core.Dto;
 public class ApparatusDto :  DtoBase
 {
     
-    public int FK_idCliente { get; set; }
+    public int fKIdCliente { get; set; }
     public DateTime fechaRecepcion { get; set; }
     public string tipoAparato { get; set; }
     public string marca { get; set; }
@@ -21,7 +21,7 @@ public class ApparatusDto :  DtoBase
     public ApparatusDto(Apparatus apparatus)
     {
 
-        FK_idCliente = apparatus.FK_idCliente;
+        fKIdCliente = apparatus.fKIdCliente;
         fechaRecepcion = apparatus.fechaRecepcion;
         tipoAparato = apparatus.tipoAparato;
         marca = apparatus.marca;

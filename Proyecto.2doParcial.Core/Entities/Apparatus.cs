@@ -3,7 +3,7 @@
 public class Apparatus : EntityBase
 {
     
-    public int FK_idCliente { get; set; }
+    public int fKIdCliente { get; set; }
     public DateTime fechaRecepcion { get; set; }
     public string tipoAparato { get; set; }
     public string marca { get; set; }

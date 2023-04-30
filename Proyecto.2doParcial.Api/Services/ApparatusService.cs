@@ -19,7 +19,7 @@ public class ApparatusService : IApparatusService
     {
         var apparatus = new Apparatus
         {
-            FK_idCliente = apparatusDto.FK_idCliente,
+            fKIdCliente = apparatusDto.fKIdCliente,
             fechaRecepcion = apparatusDto.fechaRecepcion,
             tipoAparato = apparatusDto.tipoAparato,
             marca = apparatusDto.marca,
@@ -47,7 +47,7 @@ public class ApparatusService : IApparatusService
         if (apparatus == null)
             throw new Exception("Apparatus Not Found");
 
-        apparatus.FK_idCliente = apparatusDto.FK_idCliente;
+        apparatus.fKIdCliente = apparatusDto.fKIdCliente;
         apparatus.fechaRecepcion = apparatusDto.fechaRecepcion;
         apparatus.tipoAparato = apparatusDto.tipoAparato;
         apparatus.marca = apparatusDto.marca;
